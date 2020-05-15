@@ -1,0 +1,6 @@
+c:\users\laptopmsi\documents\visual studio 2015\Projects\5_v6\5_v6\bin\Debug\5_v6.exe.config
+c:\users\laptopmsi\documents\visual studio 2015\Projects\5_v6\5_v6\bin\Debug\5_v6.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\5_v6\5_v6\bin\Debug\5_v6.pdb
+c:\users\laptopmsi\documents\visual studio 2015\Projects\5_v6\5_v6\obj\Debug\5_v6.csprojResolveAssemblyReference.cache
+c:\users\laptopmsi\documents\visual studio 2015\Projects\5_v6\5_v6\obj\Debug\5_v6.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\5_v6\5_v6\obj\Debug\5_v6.pdb
